@@ -1,4 +1,17 @@
 
+.fonts {
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+
+
+
 * {
   margin: 0;
   padding: 0;
@@ -38,9 +51,6 @@ font-weight: bold;
 
 }
 
-
-
-
 .banner-heading{
     text-align: center;
     margin-top: 150px;
@@ -61,3 +71,232 @@ font-weight: bold;
 .first-btn{
     margin-left: 30px;
 }
+
+
+
+
+
+
+
+
+.thousand-section {
+  background-color: #f1f3ff;
+  border-radius: 16px;
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: 50px auto 0 auto; 
+  text-align: center;
+}
+
+
+.products {
+  font-size: 24px;
+  font-weight: 700;
+  color: #2c2f4b;
+  margin-bottom: 30px;
+}
+
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+.box .Active,
+.box .Active-2,
+.box .Active-3 {
+  flex: 1;
+  min-width: 150px;
+   color: #5c4bff;
+}
+
+
+.box .m2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #5c4bff;
+  margin-bottom: 8px;
+}
+
+
+.box p {
+  font-size: 14px;
+  color: #6c6f8e;
+}
+
+
+
+
+
+
+
+
+
+.form{
+margin-top: 71px;
+    
+}
+
+.form-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 117px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+section input[type="text"],section input[type="email"],section textarea{
+    display: block;
+    font-size:18px;
+    font-weight: 400;
+    width:497px;
+    padding: 19px;
+    border-radius: 10px;
+}
+.let{
+    font-weight: bold;
+    font-size: 140px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+}
+.input{
+    background-color: white;
+    padding: 34px;
+    
+}
+.get-btn{
+    width: 500px;
+    height: 62px;
+    margin-top: 19px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    border: none;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 10px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
+
+ 
+
+
+
+
+.last-logo{
+    background-color: white;
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+
+ nav {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100px;           
+}
+
+ nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+ nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+.section-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 50px;
+  background-color: #f5f8ff;
+  gap: 60px;
+  flex-wrap: wrap;
+
+}
+
+.section-2 div {
+  flex: 1;
+  min-width: 300px;
+
+}
+
+.action {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1c1e21;
+  margin-bottom: 15px;
+  font-family: 'Segoe UI', sans-serif;
+
+}
+
+.action-description {
+  font-size: 16px;
+  color: #6b7280;
+  line-height: 1.6;
+  margin-bottom: 25px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.btn.signup-btn {
+  background-color: #4f46e5;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-shadow: 0 4px 10px rgba(79, 70, 229, 0.3);
+}
+
+.btn.signup-btn:hover {
+  background-color: #4338ca;
+}
+
+.section-2 img {
+  width: 50%;
+
+
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  margin: 80px;
+
+
+
+}
+
+.action-3 {
+  padding-left: 30px;
+
+}
+
+
+
