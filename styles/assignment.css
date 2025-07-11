@@ -28,9 +28,6 @@
    text-align: center;
    font-size: 16px;
 }
-
- 
-
 .banner1{
 font-weight: bold;
     color: #252432;
@@ -41,10 +38,7 @@ font-weight: bold;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-
 }
-
 .banner-heading{
     text-align: center;
     margin-top: 150px;
@@ -58,16 +52,12 @@ font-weight: bold;
       padding: 40px 80px;
       position: relative;
 }
-
 .focus-btn{
       margin-top: 30px;
 }
 .first-btn{
     margin-left: 30px;
 }
-
-
-
 .section-2 {
   display: flex;
   justify-content: space-between;
@@ -118,16 +108,11 @@ font-weight: bold;
 .btn.signup-btn:hover {
   background-color: #4338ca;
 }
-
 .section-2 img {
   width: 50%;
-
-
   border-radius: 20px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   margin: 80px;
-
-
 
 }
 
@@ -135,14 +120,6 @@ font-weight: bold;
   padding-left: 30px;
 
 }
-
-
-
-
-
-
-
-
 .thousand-section {
   background-color: #f1f3ff;
   border-radius: 16px;
@@ -152,7 +129,6 @@ font-weight: bold;
   text-align: center;
 }
 
-
 .products {
   font-size: 24px;
   font-weight: 700;
@@ -160,15 +136,12 @@ font-weight: bold;
   margin-bottom: 30px;
 }
 
-
 .box {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   gap: 20px;
 }
-
-
 .box .Active,
 .box .Active-2,
 .box .Active-3 {
@@ -176,29 +149,16 @@ font-weight: bold;
   min-width: 150px;
    color: #5c4bff;
 }
-
-
 .box .m2 {
   font-size: 36px;
   font-weight: 700;
   color: #5c4bff;
   margin-bottom: 8px;
 }
-
-
 .box p {
   font-size: 14px;
   color: #6c6f8e;
 }
-
-
-
-
-
-
-
-
-
 .form{
 margin-top: 71px;
     
@@ -234,7 +194,7 @@ section input[type="text"],section input[type="email"],section textarea{
 .input{
     background-color: white;
     padding: 34px;
-    
+  
 }
 .get-btn{
     width: 500px;
@@ -253,27 +213,18 @@ ul{
     display: flex;
     gap: 20px;
 }
-
- 
-
-
-
-
 .last-logo{
     background-color: white;
     color: #4E47FF;
     font-weight: bold;
     font-size: 100px;
 }
-
-
  nav {
   display: flex;
   justify-content: center; 
   align-items: center;     
   height: 100px;           
 }
-
  nav ul {
   list-style: none;
   display: flex;
@@ -281,22 +232,17 @@ ul{
   padding: 0;
   margin: 0;
 }
-
  nav ul li a {
   text-decoration: none;
   color: #333;
   font-weight: bold;
 }
-
-
 .btn-animation:hover {
   background: linear-gradient(90deg, red, green, blue);
   box-shadow: 0 0 20px rgba(255, 0, 0, 0.6),
               0 0 40px rgba(0, 255, 0, 0.6),
               0 0 60px rgba(0, 0, 255, 0.6);
 }
-
-
 .btn-animation {
   padding: 12px 28px;
   font-size: 16px;
@@ -307,10 +253,6 @@ ul{
   cursor: pointer;
   transition: background 0.5s ease, box-shadow 0.5s ease;
 }
-
-
-
-
 .users-say{
     text-align: center;
     padding: 60px 20px;
